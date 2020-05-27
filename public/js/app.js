@@ -81,3 +81,4 @@ window.addEventListener('load', () => {
         router.navigateTo(path);
     });
 });
+
